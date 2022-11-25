@@ -31,7 +31,7 @@ alt="Image is a button that, when clicked, starts a Deploy to Azure process to d
 The reference implementation consists of the following resources:
 
 [<img src="./media/image9.png" style="width:5in;height:3.73958in"
-alt="This diagram shows the resources that are deployed as part of the Deploy to Azure template, and which ones are in a Virtual Network. " />](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjason-affinus%2Fcaf-ais%2Fmain%2Fsrc%2Finfra%2Fias%2Fias.template.json)
+alt="This diagram shows the resources that are deployed as part of the Deploy to Azure template, and which ones are in a Virtual Network. " />](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fprobertdaniel%2FIntegration-Services-Landing-Zone-Accelerator%2Fdev/initialupload%2Fsrc%2Finfra%2Fscenario1%2Fias.template.json)
 
 The ARM templates deploy the following resources:
 
