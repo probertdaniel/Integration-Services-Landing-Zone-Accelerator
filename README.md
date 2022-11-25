@@ -58,4 +58,5 @@ The enterprise architecture is broken down into six different design areas. You 
 ## Next Steps to implement the Integration Services Landing Zone Accelerator
 
 Pick one of the scenarios below to get started on a reference implementation.
-•	[Scenario 1: Enterprise Deployment of AIS](docs/Reference%20Implementation.md)
+
+:arrow_forward: [Scenario 1: Enterprise Deployment of AIS](docs/Reference%20Implementation.md)
